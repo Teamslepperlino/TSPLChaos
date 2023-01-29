@@ -41,13 +41,3 @@ nav ul li .active{
 .headline{
     color: antiquewhite;
 }
-.maintext{
-    color: antiquewhite;
-}
-nav img{
-   height: 45px;
-   position: absolute;
-   top: 50%;
-   transform: translate(0%, -50%);
-   margin-left: 20px;
-}
