@@ -14,7 +14,7 @@ background-repeat: no-repeat;
 background-position: center;
 }
 nav{
-    height: 60px;
+    height: 90px;
     width: 100%;
     background-color: rgb(13, 13, 57);
 
@@ -36,4 +36,18 @@ nav li a{
 }
 nav ul li .active{
     color: aquamarine;
+    
+}
+.headline{
+    color: antiquewhite;
+}
+.maintext{
+    color: antiquewhite;
+}
+nav img{
+   height: 45px;
+   position: absolute;
+   top: 50%;
+   transform: translate(0%, -50%);
+   margin-left: 20px;
 }
